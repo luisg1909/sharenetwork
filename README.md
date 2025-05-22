@@ -1,2 +1,2 @@
 # sharenetwork
-an social network
+a social network
